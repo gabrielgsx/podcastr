@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" src="https://ik.imagekit.io/uafxvegvbr1/podcastr_JOjhk1thQ.svg" width="160px">
+    <img alt="Podcastr" src="https://ik.imagekit.io/uafxvegvbr1/podcastr_JOjhk1thQ.svg" ">
 
 <p align="center">
   <img alt="Moveit" src="https://ik.imagekit.io/uafxvegvbr1/icon_4UX_j-ECG.svg" width="160px">
