@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="https://ik.imagekit.io/uafxvegvbr1/podcastr_JOjhk1thQ.svg" />
+    <img alt="Podcastr" title="Podcastr" src="https://ik.imagekit.io/uafxvegvbr1/podcastr_JOjhk1thQ.svg  width="160px" />
 </h1>
 
 <p align="center">
