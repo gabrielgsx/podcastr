@@ -30,12 +30,6 @@ This project was developed using cutting edge front-end technologies.
 
 - You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
 
-**Clone the project and access the folder**
-
-```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
-```
-
 **Follow the steps below**
 
 ```bash
@@ -54,7 +48,3 @@ The app will be available for access on your browser at `http://localhost:3000`
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with 💜 by Joseph Oliveira 👋 [Check out my LinkedIn](https://www.linkedin.com/in/joseph-oliveira-294a19165)
